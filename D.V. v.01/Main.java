@@ -4,13 +4,13 @@ import java.util.List;
 public static void main() 
 {
 
-    tags(yes);
-
+    tags(yes);// more comments!
+    // so much space?
 }
 
 public static ArrayList tags(String decision)
 {
-    List<String> tags = new ArrayList<>();
+    List<String> tags = new ArrayList<>();// pick a diffent name
     Scanner input = new Scanner(System.in);
     System.out.println("--------");
     array.add(input.nextLine());

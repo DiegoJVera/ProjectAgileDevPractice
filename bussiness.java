@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-
+    // TODO: 9/19/2018 Add more comments, please. 
     public static void main(String[] args) {
         List<String> business = new ArrayList<>();
         business.add( "Jet Loop Methods");
