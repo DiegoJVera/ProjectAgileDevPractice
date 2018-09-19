@@ -8,5 +8,5 @@ Strings to the 'tag' ArrayList.
 Val.
 
 Sean.
-I did Bussiness output, so val gave me her code and i pasically made it return and print.
+I did Bussiness output, so Val gave me her code and i made it return and print the bussiness ArrayList
 Nate.
